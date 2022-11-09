@@ -25,6 +25,6 @@ Minhas especialidades incluem aprender rapidamente novas habilidades e linguagen
  
  <div>
 <a href="https://github.com/danilomartinnunes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilomartinnunes&layout=compact&langs_count=7&theme=dracula" width="40" height="40"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api username=danilomartinnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="40" height="40"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilomartinnunes&layout=compact&langs_count=7&theme=dracula" width="100" height="100"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api username=danilomartinnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="100" height="100"/>
 </div>
